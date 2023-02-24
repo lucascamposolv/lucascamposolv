@@ -9,7 +9,8 @@ Eai, tudo bem? Eu sou o
 
 <div align="center"> 
 
-![ Estatísticas do GitHub de Anurag ](https://github-readme-stats.vercel.app/api?username=lucascamposolv&count_private=true)
+ ![ Estatísticas do GitHub de Anurag ](https://github-readme-stats.vercel.app/api?username=lucascamposolv&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascamposolv&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -17,6 +18,8 @@ Eai, tudo bem? Eu sou o
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 
 <br>
