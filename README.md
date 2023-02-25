@@ -31,4 +31,4 @@ Eai, tudo bem? Eu sou o
 </div>
 
 
-![ Animação de cobra ](https://github.com/lucascamposolv/lucascamposolv/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucascamposolv/lucascamposolv/blob/output/github-contribution-grid-snake.svg)
